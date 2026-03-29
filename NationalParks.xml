@@ -10,9 +10,7 @@
       <Zip>81401</Zip>
     </Address>
   </NationalPark>
-</NationalParks>
 
-<NationalParks>
   <NationalPark Rating="4.8">
     <Name>Theodore Roosevelt</Name>
     <Phone>701-623-4466</Phone>
@@ -24,9 +22,7 @@
       <Zip>58645</Zip>
     </Address>
   </NationalPark>
-</NationalParks>
 
-<NationalParks>
   <NationalPark Rating="4.8">
     <Name>Saguaro</Name>
     <Phone>520-733-5153</Phone>
@@ -40,9 +36,7 @@
       <Zip>85743</Zip>
     </Address>
   </NationalPark>
-</NationalParks>
 
-<NationalParks>
   <NationalPark Rating="4.7">
     <Name>Death Valley</Name>
     <Phone>760-786-3200</Phone>
@@ -54,9 +48,7 @@
       <Zip>92328</Zip>
     </Address>
   </NationalPark>
-</NationalParks>
 
-<NationalParks>
   <NationalPark Rating="4.8">
     <Name>Hawaiʻi Volcanoes</Name>
     <Phone>808-985-6011</Phone>
@@ -68,9 +60,7 @@
       <Zip>96718</Zip>
     </Address>
   </NationalPark>
-</NationalParks>
 
-<NationalParks>
   <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
@@ -82,9 +72,7 @@
       <Zip>82190</Zip>
     </Address>
   </NationalPark>
-</NationalParks>
 
-<NationalParks>
   <NationalPark Rating="4.7">
     <Name>Hot Springs</Name>
     <Phone>501-620-6715</Phone>
@@ -96,9 +84,7 @@
       <Zip>71902</Zip>
     </Address>
   </NationalPark>
-</NationalParks>
 
-<NationalParks>
   <NationalPark Rating="4.8">
     <Name>Arches</Name>
     <Phone>435-719-2299</Phone>
@@ -110,9 +96,7 @@
       <Zip>84532</Zip>
     </Address>
   </NationalPark>
-</NationalParks>
 
-<NationalParks>
   <NationalPark Rating="4.8">
     <Name>Shenandoah</Name>
     <Phone>540-999-3500</Phone>
@@ -125,9 +109,7 @@
       <Zip>22835</Zip>
     </Address>
   </NationalPark>
-</NationalParks>
 
-<NationalParks>
   <NationalPark Rating="4.8">
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
