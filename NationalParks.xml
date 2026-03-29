@@ -1,4 +1,6 @@
-<NationalParks>
+<NationalParks
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="https://mmozier.github.io/NationalParks.xsd">
   <NationalPark Rating="4.8">
     <Name>Black Canyon of the Gunnison</Name>
     <Phone>970-641-2337</Phone>
