@@ -1,0 +1,142 @@
+<NationalParks>
+  <NationalPark Rating="4.8">
+    <Name>Black Canyon of the Gunnison</Name>
+    <Phone>970-641-2337</Phone>
+    <Address NearestAirport="Montrose Regional Airport (MTJ)">
+      <Number>9800</Number>
+      <Street>Highway 347</Street>
+      <City>Montrose</City>
+      <State>CO</State>
+      <Zip>81401</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
+
+<NationalParks>
+  <NationalPark Rating="4.8">
+    <Name>Theodore Roosevelt</Name>
+    <Phone>701-623-4466</Phone>
+    <Address NearestAirport="Dickinson Theodore Roosevelt Regional Airport (DIK)">
+      <Number>315</Number>
+      <Street>Second Avenue</Street>
+      <City>Medora</City>
+      <State>ND</State>
+      <Zip>58645</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
+
+<NationalParks>
+  <NationalPark Rating="4.8">
+    <Name>Saguaro</Name>
+    <Phone>520-733-5153</Phone>
+    <Phone>520-733-5158</Phone>
+    <Phone>520-733-5100</Phone>
+    <Address NearestAirport="Tucson International Airport (TUS)">
+      <Number>2700</Number>
+      <Street>North Kinney Road</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85743</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
+
+<NationalParks>
+  <NationalPark Rating="4.7">
+    <Name>Death Valley</Name>
+    <Phone>760-786-3200</Phone>
+    <Address NearestAirport="Furnace Creek Airport (DTH)">
+      <Number></Number>
+      <Street>Airport Road</Street>
+      <City>Death Valley</City>
+      <State>CA</State>
+      <Zip>92328</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
+
+<NationalParks>
+  <NationalPark Rating="4.8">
+    <Name>Hawaiʻi Volcanoes</Name>
+    <Phone>808-985-6011</Phone>
+    <Address NearestAirport="Hilo International Airport (ITO)">
+      <Number>1</Number>
+      <Street>Crater Rim Drive</Street>
+      <City>Hawaii National Park</City>
+      <State>HI</State>
+      <Zip>96718</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
+
+<NationalParks>
+  <NationalPark Rating="4.8">
+    <Name>Yellowstone</Name>
+    <Phone>307-344-7381</Phone>
+    <Address NearestAirport="Bozeman Yellowstone International Airport (BZN)">
+      <Number>114</Number>
+      <Street>Albright Avenue</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
+
+<NationalParks>
+  <NationalPark Rating="4.7">
+    <Name>Hot Springs</Name>
+    <Phone>501-620-6715</Phone>
+    <Address NearestAirport="Memorial Field Airport (HOT)">
+      <Number>134</Number>
+      <Street>Convention Boulevard</Street>
+      <City>Hot Springs National Park</City>
+      <State>AR</State>
+      <Zip>71902</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
+
+<NationalParks>
+  <NationalPark Rating="4.8">
+    <Name>Arches</Name>
+    <Phone>435-719-2299</Phone>
+    <Address NearestAirport="Canyonlands Field Airport (CNY)">
+      <Number></Number>
+      <Street>US 191</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
+
+<NationalParks>
+  <NationalPark Rating="4.8">
+    <Name>Shenandoah</Name>
+    <Phone>540-999-3500</Phone>
+    <Phone>800-732-0911</Phone>
+    <Address NearestAirport="Shenandoah Valley Regional Airport (SHD)">
+      <Number>3655</Number>
+      <Street>US Highway 211 East</Street>
+      <City>Luray</City>
+      <State>VA</State>
+      <Zip>22835</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
+
+<NationalParks>
+  <NationalPark Rating="4.8">
+    <Name>Olympic</Name>
+    <Phone>360-565-3130</Phone>
+    <Address NearestAirport="Seattle-Tacoma International Airport (SEA)">
+      <Number>3002</Number>
+      <Street>Mount Angeles Road</Street>
+      <City>Port Angeles</City>
+      <State>WA</State>
+      <Zip>98362</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
